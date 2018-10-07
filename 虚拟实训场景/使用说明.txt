@@ -1,0 +1,1 @@
+解压后，直接运行文件夹内的AutoSampler.exe即可
